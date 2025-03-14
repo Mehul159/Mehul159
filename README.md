@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋! My name is Mehul and I'm a Web and ML Developer
 
 
